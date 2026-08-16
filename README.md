@@ -1,4 +1,4 @@
-This repository contains all the assignments in CS433 (Parallel Programming)
+This repository contains all the assignments in the course CS433 (Parallel Programming)
 
 • Designed OpenMP and POSIX thread solutions to optimize theTSP problem (Bitmask DP) and solve lower triangular systems
 
